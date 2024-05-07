@@ -6,10 +6,10 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "RAIHAN-BOT",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
+    "61552312071816",
     "100000959749712"
   ],
   "ADMINBOT": [
